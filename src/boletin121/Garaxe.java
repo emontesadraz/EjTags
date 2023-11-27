@@ -43,6 +43,7 @@ public class Garaxe {
 
     /**
      * Comprueba la factura del coche que ha entrado
+     * Esto es para hacer un ejemplo
      */
     public void amosarPrezos() {
         Scanner sc = new Scanner(System.in);
